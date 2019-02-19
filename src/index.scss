@@ -1,8 +1,13 @@
 // import using ~
-@import "~bulma/sass/utilities/_all.sass";
-@import "~bulma/sass/base/_all.sass";
-@import "~bulma/sass/elements/button.sass";
-@import "~bulma/sass/layout/section.sass";
+@import "~bulma/sass/utilities/_all";
+@import "~bulma/sass/base/_all";
+@import "~bulma/sass/elements/_all";
+@import "~bulma/sass/components/_all";
+@import "~bulma/sass/grid/_all";
+@import "~bulma/sass/layout/_all";
+// @import "~bulma/sass/base/_all.sass";
+// @import "~bulma/sass/elements/_all.sass";
+// @import "~bulma/sass/layout/section.sass";
 
 body {
   margin: 0;
